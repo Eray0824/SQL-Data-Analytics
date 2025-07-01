@@ -128,8 +128,8 @@ ORDER BY total_products DESC
 
 
 -- Group customers into three segments based on their spending behavior. 
--- VIP: at least 12 months of history and spending more than 5.000 €
--- Regular: at least 12 months of history spending 5.000€ or less 
+-- VIP: at least 12 months of history and spending more than 5.000 â‚¬
+-- Regular: at least 12 months of history spending 5.000â‚¬ or less 
 -- New: lifespan less than 12 months 
 -- Find the total number of customers by each group 
 
