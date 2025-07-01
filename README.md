@@ -4,7 +4,6 @@
 
 <!-- Placeholder for a conceptual diagram of the full SQL analytics workflow -->
 <!-- Example: ![SQL Analytics Workflow](https://github.com/your-username/your-repo/assets/your-image-id/sql_analytics_workflow.png ) -->
-![SQL Analytics Workflow Placeholder](https://via.placeholder.com/800x400?text=SQL+Analytics+Workflow )
 
 This project showcases a comprehensive approach to data analytics using SQL, covering both Exploratory Data Analysis (EDA) and Advanced Analytics. The primary goal is to transform raw data into actionable business intelligence, enabling informed decision-making by systematically uncovering trends, measuring performance, segmenting data, and building robust reports directly within a SQL environment.
 
